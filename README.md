@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rishav Kumar
 
-### Product Manager | SaaS • AI • Data • FinTech
+### Product Manager | SaaS • AI • Data • FinTech • RegTech
 
 I build **data-driven digital products** at the intersection of business, technology, and user experience, with a focus on **SaaS, AI-enabled products, APIs, data platforms, and financial technology**.
 
